@@ -1,6 +1,6 @@
 WISER Method Open Source Project
-Copyright 2026 EffectiveSC. Authored by Anthony Franco and Robb Wilson.
-Published by EffectiveSC. Donated by First Strategy, LLC.
+Copyright 2026 EffectiveSC.
+Published by EffectiveSC.
 
 WHAT IS LICENSED
 
@@ -21,9 +21,9 @@ ATTRIBUTION REQUIREMENT
 When using or adapting these materials, you must provide attribution.
 Acceptable attribution:
 
-  "Based on the WISER Method by Anthony Franco and Robb Wilson.
+  "Based on the WISER Method (wisermethod.com), stewarded by EffectiveSC.
    Licensed under CC BY-SA 4.0.
-   https://github.com/BadGuyFranco/wiser-method"
+   https://github.com/wisermethod/wiser-method"
 
 For adapted works, also indicate that changes were made.
 
@@ -52,12 +52,8 @@ The following materials are NOT part of this repository and are NOT
 covered by this license. They remain the exclusive property of their
 respective rights holders under separate copyright:
 
-  - "The WISER Method" book (ISBN 979-8-218-93145-2)
-    by Anthony Franco and Robb Wilson
-  - All WISER training programs and delivery materials
-  - WISER certification and credentialing programs
-  - The WISER Assessment platform and its content
-  - Program contracts, proposals, and commercial agreements
+  - WISER Method Master Playbook: Build What Matters with AI First
+    Principles (ISBN 979-8-218-93145-2), by Robb Wilson and Anthony Franco
   - The Notion workspace and Google Sheets workbooks (hosted services
     available at wisermethod.com/templates for personal use)
 

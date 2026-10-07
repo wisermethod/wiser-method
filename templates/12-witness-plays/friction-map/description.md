@@ -68,4 +68,4 @@ Common mistakes: documenting symptoms instead of causes; relying only on manager
 
 ---
 
-*Part of the WISER Method by Anthony Franco and Robb Wilson. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+*Part of the WISER Method ([wisermethod.com](https://www.wisermethod.com)), stewarded by EffectiveSC. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

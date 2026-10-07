@@ -129,4 +129,4 @@ WISER is built for human teams. These parts tend not to earn their cost for an a
 
 ## Attribution
 
-WISER Method and AI First Principles by Anthony Franco and Robb Wilson, licensed CC BY-SA 4.0. This document is a derivative adaptation for agentic coding and is not the authoritative method. The authoritative sources are `WISER Method.md` and `ai first principles.md` in the WISER Method workspace.
+The WISER Method (wisermethod.com), stewarded by EffectiveSC, and AI First Principles (aifirstprinciples.org), licensed CC BY-SA 4.0. This document is a derivative adaptation for agentic coding and is not the authoritative method. The authoritative sources are `WISER Method.md` and `ai first principles.md` in the WISER Method workspace.

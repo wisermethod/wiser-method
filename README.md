@@ -52,9 +52,9 @@ This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/
 
 When using or adapting these materials:
 
-> Based on the WISER Method by Anthony Franco and Robb Wilson.
+> Based on the WISER Method (wisermethod.com), stewarded by EffectiveSC.
 > Licensed under CC BY-SA 4.0.
-> https://github.com/BadGuyFranco/wiser-method
+> https://github.com/wisermethod/wiser-method
 
 See the [NOTICE](NOTICE) file for trademark information and scope of what is covered.
 
@@ -62,23 +62,16 @@ See the [NOTICE](NOTICE) file for trademark information and scope of what is cov
 
 This repository contains the open-source methodology and templates. The following are separate:
 
-- **The Book**: *The WISER Method Master Playbook* teaches the methodology through narrative, case studies, and worked examples. [Available on Amazon](https://www.amazon.com/dp/B0GMKCHX4J).
-- **Programs**: Five training programs mapped to the AI Operations Maturity Model. [Explore at wisermethod.com/programs](https://wisermethod.com/programs).
+- **The Book**: *WISER Method Master Playbook: Build What Matters with AI First Principles*, by Robb Wilson and Anthony Franco, teaches the methodology through narrative, case studies, and worked examples. [Available on Amazon](https://www.amazon.com/dp/B0GMKCHX4J).
 - **Hosted Templates**: Interactive Notion workspace and Google Sheets workbooks. [Free at wisermethod.com/templates](https://wisermethod.com/templates).
-- **Assessment**: AI maturity assessment. [Take it at wisermethod.com/assessment](https://wisermethod.com/assessment).
 
 ## Foundation
 
-The WISER Method builds on [AI First Principles](https://aifirstprinciples.org), an open-source framework of twelve constraints governing how AI systems succeed and fail.
+The WISER Method builds on [AI First Principles](https://aifirstprinciples.org), an open-source framework of twelve constraints governing how AI systems succeed and fail, and on organizational AGI (OAGI), Robb Wilson's term, set out in *Age of Invisible Machines* (Wiley) by Robb Wilson and Josh Tyson.
 
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute.
-
-## Authors
-
-- **Anthony Franco** - [francoinc.com](https://francoinc.com)
-- **Robb Wilson** - Co-author of *Age of Invisible Machines* (Wiley)
 
 ## License
 
